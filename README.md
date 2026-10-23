@@ -27,7 +27,7 @@ $\text{\color{#C3BA6F} -14 dni / iwc , , }$
     <tr>
    <p align=center>
       
-   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2birdcsged&label=birds%20%5E_%5E%20&countColor=%5D9089&style=plastic)
+   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2birdcsged&label=birds%20%5E_%5E%20&countColor=%23ddbfa8&style=plastic)
  </tr>
   </thead>
   <tbody>

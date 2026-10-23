@@ -1,3 +1,6 @@
+
+
+
 <p align="center"></strong><sub><a href="https://rentry.co/tissues">rentry1</a> ⠀<a href="https://parrots.atabook.org/">atabook</a>⠀ <a href="https://rentry.co/parrot2x">rentry2</a> ⠀<a </sub>
 
 <p align=center>
@@ -23,8 +26,9 @@ $\text{\color{#C3BA6F} -14 dni / iwc , , }$
   <thead>
     <tr>
    <p align=center>
-   <img src="https://komarev.com/ghpvc/?username=birdcaged&style=flat-square&color=4E3F2B&label=birds" alt="profile view counter" width ="100" align="center">
-   </tr>
+      
+   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2birdcsged&label=birds%20%5E_%5E%20&countColor=%5D9089&style=plastic)
+ </tr>
   </thead>
   <tbody>
     <tr>

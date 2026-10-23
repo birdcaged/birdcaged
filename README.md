@@ -23,7 +23,7 @@ $\text{\color{#C3BA6F} -14 dni / iwc , , }$
   <thead>
     <tr>
    <p align=center>
-   <img src="https://komarev.com/ghpvc/?username=MichaTanner&style=flat-square&color=4E3F2B&label=birds" alt="profile view counter" width ="100" align="center">
+   <img src="https://komarev.com/ghpvc/?username=birdcaged&style=flat-square&color=4E3F2B&label=birds" alt="profile view counter" width ="100" align="center">
    </tr>
   </thead>
   <tbody>

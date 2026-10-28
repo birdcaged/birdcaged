@@ -1,7 +1,7 @@
 
 
 
-<p align="center"></strong><sub><a href="https://rentry.co/tissues">rentry1</a> ⠀<a href="https://parrots.atabook.org/">atabook</a>⠀ <a href="https://rentry.co/parrot2x">rentry2</a> ⠀<a </sub>
+<p align="center"></strong><sub><a href="https://rentry.co/tissues">rentry1</a> ⠀<a href="https://parrots.atabook.org/">atabook</a>⠀ <a href="https://rentry.co/sunray">rentry2</a> ⠀<a </sub>
 
 <p align=center>
 <img align=center width="200"alt="Untitled729_20261023083128" src="https://github.com/user-attachments/assets/e7b5a66d-3e4c-4e3e-91fd-fa74bfc84e4b" />
